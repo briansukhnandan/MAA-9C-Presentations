@@ -1,4 +1,4 @@
-class Exercise4and5 {
+class Exercise4 {
 
   public static float FtoC(int n) {
     float f = n-32;
